@@ -12,5 +12,8 @@ We also needed to do a technical demonstration of our topic. I chose to create a
 
 #### WARNING: Going through all steps and running this program *WILL* encrypt your files. You should be provided with the decryption key, but I cannot guarantee you will be able to recover your files. I suggest spinning up a VM and running it there. *Use at your own risk.*
 
+Source code can be found here:
+- https://github.com/cdalseth/techdemo
+
 A video demonstrating the program can be found here:
 - https://youtu.be/PVIN5_ORL9o
