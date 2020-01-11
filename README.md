@@ -16,4 +16,4 @@ Source code can be found here:
 - https://github.com/cdalseth/techdemo
 
 A video demonstrating the program can be found here:
-- https://youtu.be/PVIN5_ORL9o
+- https://youtu.be/q7n0kfBVM6U
