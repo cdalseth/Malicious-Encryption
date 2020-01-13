@@ -1,4 +1,4 @@
-# Malicious-Encryption
+# Malicious Encryption
 
 This is the repository for my Senior Capstone research on ransomware.
 - You can find the PDF of the paper in the main directory with the title *Ransomware__State_of_the_Field.pdf*
